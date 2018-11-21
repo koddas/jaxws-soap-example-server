@@ -24,7 +24,7 @@ directory at src/main/java and type
 in your terminal. Your generated class files can be found in the target/classes
 folder.
 
-If you'd prefer to build a self-contained jar file, please use Maven:
+If you'd prefer to build a self-contained jar file, type
 
 	mvn clean compile build
 
