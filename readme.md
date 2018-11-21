@@ -54,3 +54,11 @@ The hostname, path and network port are all set in KaraokePublisher.java.
 A corresponding client, which is if possible even simpler, has been developed
 in conjunction with the web service. It can be found at
 [koddas/jaxws-soap-example-client](http://github.com/koddas/jaxws-soap-example-client).
+If you'd like to build and run this client, don't forget to add this artefact
+to your Maven repository by running
+
+	mvn install
+
+after building it, or by running
+
+	mvn clean compile install
