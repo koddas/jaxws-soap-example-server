@@ -11,7 +11,6 @@ import javax.jws.WebService;
 @WebService(endpointInterface = "se.idioti.example.jaxws.soap.server.Karaoke")
 public class KaraokeImpl implements Karaoke {
 
-	@Override
 	public String getSongAsString(String song) {
 		return "Let's all sing along! You'll sing: " + song;
 	}
