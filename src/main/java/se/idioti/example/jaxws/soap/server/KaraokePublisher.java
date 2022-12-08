@@ -1,6 +1,6 @@
 package se.idioti.example.jaxws.soap.server;
 
-import javax.xml.ws.Endpoint;
+import jakarta.xml.ws.Endpoint;
 
 /**
  * This is the main server program.

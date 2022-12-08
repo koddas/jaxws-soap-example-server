@@ -1,6 +1,6 @@
 package se.idioti.example.jaxws.soap.server;
 
-import javax.jws.WebService;
+import jakarta.jws.WebService;
 
 /**
  * This class implements the karaoke web service.
