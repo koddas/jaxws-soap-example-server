@@ -1,9 +1,8 @@
 # About this project
 
 This project is a simple demo web application using Java annotations,
-mimicikng an extremely basic online karaoke service. It runs on Java 8 (and
-possibly also 7) and is run as a standalone program. All dependencies are met
-by the standard Java installation.
+mimicking an extremely basic online karaoke service. It runs on Java 11 and above, and is run as a standalone program.
+The project
 
 The annotations used are defined in the
 [JAX-WS API](https://en.wikipedia.org/wiki/Java_API_for_XML_Web_Services).
